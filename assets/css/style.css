@@ -1,0 +1,226 @@
+/*body {
+    width:1000px;
+}*/
+
+h1 {
+    padding-left: 4%;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.name {
+    float: left;
+    position: fixed;
+    margin-left: 11.5%;
+    /* right:1212px; */
+    background-color:#4aaaa5;
+    font-size: 2em;
+    font-weight: bold;
+    height:58px;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 22px;
+    padding-right: 30px;
+    padding-left: 30px;
+    width:170px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+header {
+    background-color: #ffffff;
+    border: solid;
+    border-color: #cccccc;
+    height: 80px;
+    text-align: center;
+    width: 100%;
+    position:fixed;
+    overflow: auto;
+
+}
+
+.w3-container {
+    position: relative;
+    bottom:-100px;
+    z-index: -100;
+    background-color: #ffffff;
+    border:solid;
+    border-color: #dddddd;
+    width: 960px;
+    height: 100%;
+    /* margin-left:50%; */
+    margin: auto;
+    Color: #4aaaa5;
+}
+
+#index-hr-top {
+    width: 92%;
+    margin: auto;
+    margin-bottom: 15px;
+    border-top: 3px solid #4aaaa5;
+}
+
+#index-img{
+    float: left;
+    height:160px;
+    width: 160px;
+    padding-right: 15px;
+    padding-left: 38px;
+}
+p {
+    color: #777777;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    padding-left: 38px;
+    padding-right: 38px;
+}
+
+footer { 
+    background-color: #666666;
+    position: fixed; 
+    bottom: 0; left: 0; right: 0;
+    text-align:center;
+    clear: both;
+    width:100%;
+}
+
+
+nav {
+    float: right;
+    margin: 0 auto;
+    position:fixed;
+    right:200px;
+    /* position: absolute;
+    right: 500px; */
+    padding-top:50px;
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    
+}
+
+a {
+    padding-right:6px;
+    margin-right: 8px;
+    text-decoration: none;
+    border-right: 1px solid #777777 
+}
+
+
+
+.text-h {
+    position: absolute;
+    bottom: 20px;
+    width: 249.5px;
+    margin-left:25px;
+    padding: 5px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    
+}
+
+.portfolio-pics{
+    width: 260px;
+    height: 200px;
+    float:left;
+    position:relative;
+    left: 25px;
+    margin: 20px 0 25px; 
+}
+
+.port {
+    height:630px;
+    margin-bottom: 5%;
+}
+
+.even{
+    margin-right: 40px;
+}
+
+ul {
+    list-style: none;
+}
+
+label, input[type=text], input[type=email], textarea {
+    display: block;
+   width: 93%;
+   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+input[type=text], input[type=email], textarea {
+    height: 35px;
+    padding: 0 10px;
+    font-size: 14px;
+    border: 1px solid #ddd
+}
+
+input[type=submit] {
+    padding: 10px 50px;
+    font-size: 18px;
+    color: #fff;
+    cursor: pointer;
+    background: #4aaaa5;
+    border: 0 none;
+    margin: 0 0 10px 40px;
+}
+
+textarea {
+    height:150px;
+}
+
+/*#top-portfolio{
+    position: relative;
+    float: left;
+
+}
+#hangman{
+    width: 260px;
+    height: 200px;
+    float:left;
+    position:relative;
+    left: 38px;
+
+}
+
+
+#rpggame {
+    width: 260px;
+    height: 200px;
+    float:left;
+    position: relative;
+    left:38px;
+
+    
+}
+
+#middle-portfolio{
+    margin-top: 50px;
+}
+
+#triviagame {
+    width: 260px;
+    height: 200px;
+    margin-left: 38px;
+    margin-right: 46px;
+}
+
+#riw {
+    width: 260px;
+    height: 200px;
+    
+}
+
+#bottom-portfolio {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+#rps{
+    width: 260px;
+    height: 200px;
+    margin-left: 38px;
+    margin-right: 46px;
+}*/
+
+
