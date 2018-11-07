@@ -9,7 +9,6 @@ h1 {
 
 .name {
     float: left;
-    position: fixed;
     margin-left: 11.5%;
     /* right:1212px; */
     background-color:#4aaaa5;
@@ -32,14 +31,17 @@ header {
     height: 80px;
     text-align: center;
     width: 100%;
-    position:fixed;
-    overflow: auto;
+    position:relative;
+   
+}
 
+.nav-link{
+    border-right: 1px solid #777777
 }
 
 .w3-container {
     position: relative;
-    bottom:-100px;
+    bottom:-20px;
     z-index: -100;
     background-color: #ffffff;
     border:solid;
@@ -85,14 +87,12 @@ footer {
 nav {
     float: right;
     margin: 0 auto;
-    position:fixed;
-    right:200px;
     /* position: absolute;
     right: 500px; */
     padding-top:50px;
     color: #777777;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    
+    padding-right:10%;
 }
 
 a {
