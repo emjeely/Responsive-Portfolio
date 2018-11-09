@@ -66,8 +66,13 @@ nav {
     height: 100%;
     /* margin-left:50%; */
     margin: auto;
+    margin-bottom:50px;
     Color: #4aaaa5;
     
+}
+
+.parent-div{
+min-height:490px;
 }
 
 #index-hr-top {
@@ -94,7 +99,8 @@ p {
 footer { 
     background-color: #666666;
     /* position: absolute;  */
-    bottom: 0; left: 0; right: 0;
+    /* bottom: 0; left: 0; right: 0; */
+    footer: sticky;
     text-align:center;
     clear: both;
     width:100%;
@@ -263,9 +269,15 @@ textarea {
         width: 580px;
         height: 100%;
         margin-left:5%;
+        margin-bottom:50px;
         Color: #4aaaa5;
         
     }
+
+    .parent-div{
+        min-height:490px;
+        }
+        
    
     /* portfolio content*/
     .port {
@@ -317,6 +329,8 @@ textarea {
 }
 
 
+
+
 @media screen and (max-width:768px){
 
 .name {
@@ -355,8 +369,8 @@ textarea {
     border-color: #dddddd;
     width: 710px;
     height: 100%;
-    /* margin-left:50%; */
-    margin: auto;
+    margin-left:17.5px;
+    margin-bottom: 50px;
     Color: #4aaaa5;
         
     }   
@@ -453,7 +467,7 @@ textarea {
         width: 582px;
         height: 100%;
         /* margin-left:50%; */
-        margin: auto;
+        margin-bottom: 50px;
         Color: #4aaaa5;
         
     }
